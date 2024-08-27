@@ -27,4 +27,4 @@ data_structure = [
 ]
 
 result = calculate_structure_sum(data_structure)
-print(result)  # Вывод: 99
+print(result)  # Вывод: 99 ? У меня почему то 51 получается....
